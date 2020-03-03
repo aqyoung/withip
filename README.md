@@ -13,9 +13,9 @@ cd with ip
   
 ## Effect preview
   
-[image](https://github.com/aqyoung/withip/master/1.png)  
+[image](https://github.com/aqyoung/withip/blob/master/1.png)  
   
-[image](https://github.com/aqyoung/withip/master/2.png)  
+[image](https://github.com/aqyoung/withip/blob/master/2.png)  
   
   
 ## statement
